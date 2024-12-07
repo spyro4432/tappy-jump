@@ -1,0 +1,29 @@
+﻿{
+	"name": "Tappy jump",
+	"version": "1.0.0.0",
+	"description": "tappy game",
+	"id": "tappy,tinku.game",
+	"viewport-width": 800,
+	"viewport-height": 480,
+	"author": "tinku kalita",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "280",
+	"ife": true,
+	"used-plugins": [
+		"Audio",
+		"Button",
+		"Sprite",
+		"Text",
+		"TiledBg",
+		"Touch"
+	],
+	"used-behaviors": [
+		"Bullet",
+		"Fade",
+		"Platform",
+		"Rotate",
+		"solid"
+	]
+}

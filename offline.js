@@ -1,0 +1,33 @@
+﻿{
+	"version": 1733570430,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"background-sheet0.png",
+		"planered-sheet0.png",
+		"planered-sheet1.png",
+		"planered-sheet2.png",
+		"groundrock-sheet0.png",
+		"rockice-sheet0.png",
+		"rockicedown-sheet0.png",
+		"pufflarge-sheet0.png",
+		"stargold-sheet0.png",
+		"screenshot-sheet0.png",
+		"tiledbackground.png",
+		"endlessplanefiyergameby-sheet0.png",
+		"sprite-sheet0.png",
+		"collect gem.m4a",
+		"collect gem.ogg",
+		"jingle lose.m4a",
+		"jingle lose.ogg",
+		"mattoglseby - 1.m4a",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
